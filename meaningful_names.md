@@ -1,3 +1,5 @@
+# Meaningful Names
+
 -   Use intention revealing names
 -   Use searchable names even if they end up being long
 -   "My personal preference is that single-letter names can ONLY be used as local variables inside short methods. The length of a name should correspond to the size of its scope"
