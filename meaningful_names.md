@@ -21,7 +21,7 @@
 -   "Pick one word for one abstract concept and stick with it. For instance, it’s confusing to
     have fetch, retrieve, and get as equivalent methods of different classes."
 
-    DON'T do this:
+    **DON'T do this:**
 
     -   employee.deleteInfo();
     -   employee.removeBirthday();
